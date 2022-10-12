@@ -4,6 +4,7 @@ To begin the analysis of climate data from Honolulu, Hawaii:
 First, open and run the script contained within the "climate_starter.ipynb" file (within the SurfsUp folder). This will analyse the dataset files contained within the Resources folder, and output two figures.  
 Next, open and run the Flask API contained within the "app.py" file. Check the terminal if you're unsure what address this API is running on. The homepage of this API will contain a list of the available routes, as well as what each route contains. This will run until you use CTRL+C within the app.py file to stop it.  
   
+----------------------------------------------------------------------------  
   
 The available routes within the app.py API are:  
 /api/v1.0/precipitation  
